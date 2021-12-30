@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/DSA_Ass3/SymbolTable.cpp
+SymbolTable.h
+C:/Users/ASUS/CLionProjects/DSA_Ass3/SymbolTable.h
+
+C:/Users/ASUS/CLionProjects/DSA_Ass3/SymbolTable.h
+main.h
+C:/Users/ASUS/CLionProjects/DSA_Ass3/main.h
+
+C:/Users/ASUS/CLionProjects/DSA_Ass3/error.h
+string
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/DSA_Ass3/main.cpp
+SymbolTable.h
+C:/Users/ASUS/CLionProjects/DSA_Ass3/SymbolTable.h
+SymbolTable.cpp
+C:/Users/ASUS/CLionProjects/DSA_Ass3/SymbolTable.cpp
+
+C:/Users/ASUS/CLionProjects/DSA_Ass3/main.h
+iostream
+-
+string
+-
+fstream
+-
+regex
+-
+error.h
+C:/Users/ASUS/CLionProjects/DSA_Ass3/error.h
+
