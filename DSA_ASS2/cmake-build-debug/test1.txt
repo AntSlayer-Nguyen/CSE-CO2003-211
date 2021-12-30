@@ -1,0 +1,10 @@
+INSERT vav (string)->number true
+PRINT
+INSERT dPtID1 string true
+INSERT i68DM string false
+LOOKUP vav
+LOOKUP dPtID1
+ASSIGN i68DM dPtID1
+ASSIGN i68DM dPtID1
+LOOKUP vav
+ASSIGN fP2VRk vav(i68DM)
